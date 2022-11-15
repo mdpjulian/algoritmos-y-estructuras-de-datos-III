@@ -1,0 +1,17 @@
+[
+    {
+        "_id": 102,
+        "_name": "Fernando",
+        "_role": "Tecnico"
+    },
+    {
+        "_id": 164,
+        "_name": "Ema",
+        "_role": "Ingeniera"
+    },
+    {
+        "_id": 121,
+        "_name": "Roberto",
+        "_role": "Soporte"
+    }
+]
